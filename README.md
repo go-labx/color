@@ -48,4 +48,4 @@ Contributions are welcome! Please see [CONTRIBUTING](./CONTRIBUTING.md) for more
 
 ## License
 
-My SDK is licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
+color is licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
