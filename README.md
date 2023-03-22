@@ -1,6 +1,6 @@
-# 🌈🌈🌈 color
+# color
 
-The color library is used for outputting colored text in the console using ANSI escape sequences.
+🌈🌈🌈 The color library is used for outputting colored text in the console using ANSI escape sequences.
 
 ## Installation
 
